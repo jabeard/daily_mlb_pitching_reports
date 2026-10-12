@@ -1,66 +1,66 @@
 {
-  "date": "2026-10-10",
+  "date": "2026-10-11",
   "pitchers": [
     {
-      "Pitcher": "Gavin Williams",
-      "Team": "Cleveland Guardians",
-      "Innings": "5.2",
-      "SO": 12,
-      "H": 1,
-      "ER": 0,
-      "UER": 0,
-      "BB": 2,
-      "GameScore": 77
-    },
-    {
-      "Pitcher": "Cade Smith",
-      "Team": "Cleveland Guardians",
-      "Innings": "1.2",
-      "SO": 4,
+      "Pitcher": "Aaron Ashby",
+      "Team": "Milwaukee Brewers",
+      "Innings": "2.0",
+      "SO": 1,
       "H": 0,
       "ER": 0,
       "UER": 0,
-      "BB": 0,
-      "GameScore": 59
+      "BB": 1,
+      "GameScore": 56
     },
     {
-      "Pitcher": "Sean Burke",
-      "Team": "Chicago White Sox",
-      "Innings": "5.0",
-      "SO": 4,
-      "H": 4,
-      "ER": 2,
-      "UER": 0,
-      "BB": 0,
-      "GameScore": 55
-    },
-    {
-      "Pitcher": "Sean Newcomb",
-      "Team": "Chicago White Sox",
-      "Innings": "2.0",
+      "Pitcher": "Evan Phillips",
+      "Team": "Los Angeles Dodgers",
+      "Innings": "1.0",
       "SO": 3,
-      "H": 2,
-      "ER": 0,
-      "UER": 0,
-      "BB": 0,
-      "GameScore": 55
-    },
-    {
-      "Pitcher": "Hunter Gaddis",
-      "Team": "Cleveland Guardians",
-      "Innings": "1.1",
-      "SO": 4,
-      "H": 2,
+      "H": 1,
       "ER": 0,
       "UER": 0,
       "BB": 0,
       "GameScore": 54
     },
     {
-      "Pitcher": "Erik Sabrowski",
-      "Team": "Cleveland Guardians",
-      "Innings": "0.1",
+      "Pitcher": "Alex Vesia",
+      "Team": "Los Angeles Dodgers",
+      "Innings": "1.0",
+      "SO": 2,
+      "H": 0,
+      "ER": 0,
+      "UER": 0,
+      "BB": 1,
+      "GameScore": 54
+    },
+    {
+      "Pitcher": "Tarik Skubal",
+      "Team": "Los Angeles Dodgers",
+      "Innings": "5.0",
+      "SO": 7,
+      "H": 5,
+      "ER": 2,
+      "UER": 0,
+      "BB": 2,
+      "GameScore": 54
+    },
+    {
+      "Pitcher": "Tanner Scott",
+      "Team": "Los Angeles Dodgers",
+      "Innings": "1.0",
       "SO": 1,
+      "H": 0,
+      "ER": 0,
+      "UER": 0,
+      "BB": 2,
+      "GameScore": 52
+    },
+    {
+      "Pitcher": "DL Hall",
+      "Team": "Milwaukee Brewers",
+      "Innings": "0.2",
+      "SO": 0,
       "H": 0,
       "ER": 0,
       "UER": 0,
@@ -68,8 +68,8 @@
       "GameScore": 52
     },
     {
-      "Pitcher": "Grant Taylor",
-      "Team": "Chicago White Sox",
+      "Pitcher": "Trevor Megill",
+      "Team": "Milwaukee Brewers",
       "Innings": "1.0",
       "SO": 0,
       "H": 0,
@@ -79,8 +79,30 @@
       "GameScore": 51
     },
     {
-      "Pitcher": "Nathaniel Lowe",
-      "Team": "Cleveland Guardians",
+      "Pitcher": "Jacob Misiorowski",
+      "Team": "Milwaukee Brewers",
+      "Innings": "4.1",
+      "SO": 5,
+      "H": 5,
+      "ER": 1,
+      "UER": 0,
+      "BB": 3,
+      "GameScore": 51
+    },
+    {
+      "Pitcher": "Abner Uribe",
+      "Team": "Milwaukee Brewers",
+      "Innings": "1.0",
+      "SO": 2,
+      "H": 2,
+      "ER": 0,
+      "UER": 0,
+      "BB": 0,
+      "GameScore": 51
+    },
+    {
+      "Pitcher": "Logan Henderson",
+      "Team": "Milwaukee Brewers",
       "Innings": "0.0",
       "SO": 0,
       "H": 0,
@@ -90,8 +112,8 @@
       "GameScore": 50
     },
     {
-      "Pitcher": "Austin Hedges",
-      "Team": "Cleveland Guardians",
+      "Pitcher": "Andrew Vaughn",
+      "Team": "Milwaukee Brewers",
       "Innings": "0.0",
       "SO": 0,
       "H": 0,
@@ -101,8 +123,8 @@
       "GameScore": 50
     },
     {
-      "Pitcher": "Petey Halpin",
-      "Team": "Cleveland Guardians",
+      "Pitcher": "Christian Yelich",
+      "Team": "Milwaukee Brewers",
       "Innings": "0.0",
       "SO": 0,
       "H": 0,
@@ -112,8 +134,8 @@
       "GameScore": 50
     },
     {
-      "Pitcher": "Matt Festa",
-      "Team": "Cleveland Guardians",
+      "Pitcher": "Shane Drohan",
+      "Team": "Milwaukee Brewers",
       "Innings": "0.0",
       "SO": 0,
       "H": 0,
@@ -123,8 +145,8 @@
       "GameScore": 50
     },
     {
-      "Pitcher": "Patrick Bailey",
-      "Team": "Cleveland Guardians",
+      "Pitcher": "Joey Ortiz",
+      "Team": "Milwaukee Brewers",
       "Innings": "0.0",
       "SO": 0,
       "H": 0,
@@ -134,8 +156,8 @@
       "GameScore": 50
     },
     {
-      "Pitcher": "Jo Adell",
-      "Team": "Cleveland Guardians",
+      "Pitcher": "Jake Bauers",
+      "Team": "Milwaukee Brewers",
       "Innings": "0.0",
       "SO": 0,
       "H": 0,
@@ -145,8 +167,8 @@
       "GameScore": 50
     },
     {
-      "Pitcher": "David Fry",
-      "Team": "Cleveland Guardians",
+      "Pitcher": "Jackson Chourio",
+      "Team": "Milwaukee Brewers",
       "Innings": "0.0",
       "SO": 0,
       "H": 0,
@@ -156,8 +178,8 @@
       "GameScore": 50
     },
     {
-      "Pitcher": "Daniel Schneemann",
-      "Team": "Cleveland Guardians",
+      "Pitcher": "Sal Frelick",
+      "Team": "Milwaukee Brewers",
       "Innings": "0.0",
       "SO": 0,
       "H": 0,
@@ -167,8 +189,8 @@
       "GameScore": 50
     },
     {
-      "Pitcher": "Travis Bazzana",
-      "Team": "Cleveland Guardians",
+      "Pitcher": "JoJo Romero",
+      "Team": "Milwaukee Brewers",
       "Innings": "0.0",
       "SO": 0,
       "H": 0,
@@ -178,8 +200,8 @@
       "GameScore": 50
     },
     {
-      "Pitcher": "Brayan Rocchio",
-      "Team": "Cleveland Guardians",
+      "Pitcher": "Chad Patrick",
+      "Team": "Milwaukee Brewers",
       "Innings": "0.0",
       "SO": 0,
       "H": 0,
@@ -189,8 +211,8 @@
       "GameScore": 50
     },
     {
-      "Pitcher": "Shawn Armstrong",
-      "Team": "Cleveland Guardians",
+      "Pitcher": "Cooper Pratt",
+      "Team": "Milwaukee Brewers",
       "Innings": "0.0",
       "SO": 0,
       "H": 0,
@@ -200,8 +222,8 @@
       "GameScore": 50
     },
     {
-      "Pitcher": "Chase DeLauter",
-      "Team": "Cleveland Guardians",
+      "Pitcher": "Gary S\u00e1nchez",
+      "Team": "Milwaukee Brewers",
       "Innings": "0.0",
       "SO": 0,
       "H": 0,
@@ -211,8 +233,8 @@
       "GameScore": 50
     },
     {
-      "Pitcher": "Angel Genao",
-      "Team": "Cleveland Guardians",
+      "Pitcher": "Robert Gasser",
+      "Team": "Milwaukee Brewers",
       "Innings": "0.0",
       "SO": 0,
       "H": 0,
@@ -222,8 +244,8 @@
       "GameScore": 50
     },
     {
-      "Pitcher": "Daniel Espino",
-      "Team": "Cleveland Guardians",
+      "Pitcher": "Brice Turang",
+      "Team": "Milwaukee Brewers",
       "Innings": "0.0",
       "SO": 0,
       "H": 0,
@@ -233,8 +255,8 @@
       "GameScore": 50
     },
     {
-      "Pitcher": "Joey Cantillo",
-      "Team": "Cleveland Guardians",
+      "Pitcher": "William Contreras",
+      "Team": "Milwaukee Brewers",
       "Innings": "0.0",
       "SO": 0,
       "H": 0,
@@ -244,8 +266,8 @@
       "GameScore": 50
     },
     {
-      "Pitcher": "Parker Messick",
-      "Team": "Cleveland Guardians",
+      "Pitcher": "David Hamilton",
+      "Team": "Milwaukee Brewers",
       "Innings": "0.0",
       "SO": 0,
       "H": 0,
@@ -255,8 +277,8 @@
       "GameScore": 50
     },
     {
-      "Pitcher": "Angel Mart\u00ednez",
-      "Team": "Cleveland Guardians",
+      "Pitcher": "Garrett Mitchell",
+      "Team": "Milwaukee Brewers",
       "Innings": "0.0",
       "SO": 0,
       "H": 0,
@@ -266,8 +288,8 @@
       "GameScore": 50
     },
     {
-      "Pitcher": "Steven Kwan",
-      "Team": "Cleveland Guardians",
+      "Pitcher": "Kyle Harrison",
+      "Team": "Milwaukee Brewers",
       "Innings": "0.0",
       "SO": 0,
       "H": 0,
@@ -277,8 +299,8 @@
       "GameScore": 50
     },
     {
-      "Pitcher": "Jos\u00e9 Ram\u00edrez",
-      "Team": "Cleveland Guardians",
+      "Pitcher": "Dustin May",
+      "Team": "Milwaukee Brewers",
       "Innings": "0.0",
       "SO": 0,
       "H": 0,
@@ -288,8 +310,8 @@
       "GameScore": 50
     },
     {
-      "Pitcher": "Tim Herrin",
-      "Team": "Cleveland Guardians",
+      "Pitcher": "Will Smith",
+      "Team": "Los Angeles Dodgers",
       "Innings": "0.0",
       "SO": 0,
       "H": 0,
@@ -299,8 +321,8 @@
       "GameScore": 50
     },
     {
-      "Pitcher": "Tanner Bibee",
-      "Team": "Cleveland Guardians",
+      "Pitcher": "Luis Lara",
+      "Team": "Milwaukee Brewers",
       "Innings": "0.0",
       "SO": 0,
       "H": 0,
@@ -310,8 +332,8 @@
       "GameScore": 50
     },
     {
-      "Pitcher": "Davis Martin",
-      "Team": "Chicago White Sox",
+      "Pitcher": "Kyle Tucker",
+      "Team": "Los Angeles Dodgers",
       "Innings": "0.0",
       "SO": 0,
       "H": 0,
@@ -321,8 +343,8 @@
       "GameScore": 50
     },
     {
-      "Pitcher": "Luisangel Acu\u00f1a",
-      "Team": "Chicago White Sox",
+      "Pitcher": "Tyler Glasnow",
+      "Team": "Los Angeles Dodgers",
       "Innings": "0.0",
       "SO": 0,
       "H": 0,
@@ -332,8 +354,8 @@
       "GameScore": 50
     },
     {
-      "Pitcher": "David Sandlin",
-      "Team": "Chicago White Sox",
+      "Pitcher": "Enrique Hern\u00e1ndez",
+      "Team": "Los Angeles Dodgers",
       "Innings": "0.0",
       "SO": 0,
       "H": 0,
@@ -343,8 +365,8 @@
       "GameScore": 50
     },
     {
-      "Pitcher": "Randal Grichuk",
-      "Team": "Chicago White Sox",
+      "Pitcher": "Max Muncy",
+      "Team": "Los Angeles Dodgers",
       "Innings": "0.0",
       "SO": 0,
       "H": 0,
@@ -354,8 +376,8 @@
       "GameScore": 50
     },
     {
-      "Pitcher": "Munetaka Murakami",
-      "Team": "Chicago White Sox",
+      "Pitcher": "Freddie Freeman",
+      "Team": "Los Angeles Dodgers",
       "Innings": "0.0",
       "SO": 0,
       "H": 0,
@@ -365,8 +387,8 @@
       "GameScore": 50
     },
     {
-      "Pitcher": "Foster Griffin",
-      "Team": "Cleveland Guardians",
+      "Pitcher": "Antonio Senzatela",
+      "Team": "Milwaukee Brewers",
       "Innings": "0.0",
       "SO": 0,
       "H": 0,
@@ -376,8 +398,8 @@
       "GameScore": 50
     },
     {
-      "Pitcher": "Tristan Peters",
-      "Team": "Chicago White Sox",
+      "Pitcher": "Edgardo Henriquez",
+      "Team": "Los Angeles Dodgers",
       "Innings": "0.0",
       "SO": 0,
       "H": 0,
@@ -387,8 +409,8 @@
       "GameScore": 50
     },
     {
-      "Pitcher": "Anthony Kay",
-      "Team": "Chicago White Sox",
+      "Pitcher": "Kris Bubic",
+      "Team": "Los Angeles Dodgers",
       "Innings": "0.0",
       "SO": 0,
       "H": 0,
@@ -398,8 +420,8 @@
       "GameScore": 50
     },
     {
-      "Pitcher": "Tommy Pham",
-      "Team": "Chicago White Sox",
+      "Pitcher": "Tommy Edman",
+      "Team": "Los Angeles Dodgers",
       "Innings": "0.0",
       "SO": 0,
       "H": 0,
@@ -409,8 +431,8 @@
       "GameScore": 50
     },
     {
-      "Pitcher": "Chase Meidroth",
-      "Team": "Chicago White Sox",
+      "Pitcher": "Hunter Feduccia",
+      "Team": "Los Angeles Dodgers",
       "Innings": "0.0",
       "SO": 0,
       "H": 0,
@@ -420,8 +442,8 @@
       "GameScore": 50
     },
     {
-      "Pitcher": "Kyle Teel",
-      "Team": "Chicago White Sox",
+      "Pitcher": "Justin Wrobleski",
+      "Team": "Los Angeles Dodgers",
       "Innings": "0.0",
       "SO": 0,
       "H": 0,
@@ -431,8 +453,8 @@
       "GameScore": 50
     },
     {
-      "Pitcher": "Braden Montgomery",
-      "Team": "Chicago White Sox",
+      "Pitcher": "Teoscar Hern\u00e1ndez",
+      "Team": "Los Angeles Dodgers",
       "Innings": "0.0",
       "SO": 0,
       "H": 0,
@@ -442,8 +464,8 @@
       "GameScore": 50
     },
     {
-      "Pitcher": "Noah Schultz",
-      "Team": "Chicago White Sox",
+      "Pitcher": "Andy Pages",
+      "Team": "Los Angeles Dodgers",
       "Innings": "0.0",
       "SO": 0,
       "H": 0,
@@ -453,8 +475,8 @@
       "GameScore": 50
     },
     {
-      "Pitcher": "Jake Rogers",
-      "Team": "Chicago White Sox",
+      "Pitcher": "Shohei Ohtani",
+      "Team": "Los Angeles Dodgers",
       "Innings": "0.0",
       "SO": 0,
       "H": 0,
@@ -464,8 +486,8 @@
       "GameScore": 50
     },
     {
-      "Pitcher": "Hagen Smith",
-      "Team": "Chicago White Sox",
+      "Pitcher": "Edwin D\u00edaz",
+      "Team": "Los Angeles Dodgers",
       "Innings": "0.0",
       "SO": 0,
       "H": 0,
@@ -475,8 +497,8 @@
       "GameScore": 50
     },
     {
-      "Pitcher": "Colson Montgomery",
-      "Team": "Chicago White Sox",
+      "Pitcher": "Mookie Betts",
+      "Team": "Los Angeles Dodgers",
       "Innings": "0.0",
       "SO": 0,
       "H": 0,
@@ -486,8 +508,8 @@
       "GameScore": 50
     },
     {
-      "Pitcher": "Andrew Benintendi",
-      "Team": "Chicago White Sox",
+      "Pitcher": "Blake Snell",
+      "Team": "Los Angeles Dodgers",
       "Innings": "0.0",
       "SO": 0,
       "H": 0,
@@ -497,8 +519,8 @@
       "GameScore": 50
     },
     {
-      "Pitcher": "Brenton Doyle",
-      "Team": "Chicago White Sox",
+      "Pitcher": "Brock Stewart",
+      "Team": "Los Angeles Dodgers",
       "Innings": "0.0",
       "SO": 0,
       "H": 0,
@@ -508,8 +530,8 @@
       "GameScore": 50
     },
     {
-      "Pitcher": "Bryan Hudson",
-      "Team": "Chicago White Sox",
+      "Pitcher": "Josue De Paula",
+      "Team": "Los Angeles Dodgers",
       "Innings": "0.0",
       "SO": 0,
       "H": 0,
@@ -519,8 +541,8 @@
       "GameScore": 50
     },
     {
-      "Pitcher": "Erick Fedde",
-      "Team": "Chicago White Sox",
+      "Pitcher": "Miguel Rojas",
+      "Team": "Los Angeles Dodgers",
       "Innings": "0.0",
       "SO": 0,
       "H": 0,
@@ -530,8 +552,8 @@
       "GameScore": 50
     },
     {
-      "Pitcher": "Jordan Hicks",
-      "Team": "Chicago White Sox",
+      "Pitcher": "Roki Sasaki",
+      "Team": "Los Angeles Dodgers",
       "Innings": "0.0",
       "SO": 0,
       "H": 0,
@@ -541,30 +563,8 @@
       "GameScore": 50
     },
     {
-      "Pitcher": "Sam Antonacci",
-      "Team": "Chicago White Sox",
-      "Innings": "0.0",
-      "SO": 0,
-      "H": 0,
-      "ER": 0,
-      "UER": 0,
-      "BB": 0,
-      "GameScore": 50
-    },
-    {
-      "Pitcher": "Miguel Vargas",
-      "Team": "Chicago White Sox",
-      "Innings": "0.0",
-      "SO": 0,
-      "H": 0,
-      "ER": 0,
-      "UER": 0,
-      "BB": 0,
-      "GameScore": 50
-    },
-    {
-      "Pitcher": "Tyler Davis",
-      "Team": "Chicago White Sox",
+      "Pitcher": "Yoshinobu Yamamoto",
+      "Team": "Los Angeles Dodgers",
       "Innings": "0.0",
       "SO": 0,
       "H": 0,
