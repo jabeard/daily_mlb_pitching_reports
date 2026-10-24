@@ -1,9 +1,6 @@
 name: Daily MLB Pitching Report
 
 on:
-  schedule:
-    # Runs at 11:00 AM ET (15:00 UTC) every day — most previous-night games are final by then
-    - cron: "0 15 * * *"
   workflow_dispatch: # Allow manual runs from the GitHub Actions UI
 
 jobs:
