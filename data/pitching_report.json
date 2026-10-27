@@ -1,335 +1,60 @@
 {
-  "date": "2026-10-24",
+  "date": "2026-10-26",
   "pitchers": [
     {
-      "Pitcher": "Aaron Ashby",
+      "Pitcher": "Robert Gasser",
       "Team": "Milwaukee Brewers",
-      "Innings": "1.2",
+      "Innings": "6.0",
       "SO": 3,
       "H": 1,
       "ER": 0,
       "UER": 0,
-      "BB": 0,
-      "GameScore": 56
-    },
-    {
-      "Pitcher": "Abner Uribe",
-      "Team": "Milwaukee Brewers",
-      "Innings": "1.1",
-      "SO": 1,
-      "H": 0,
-      "ER": 0,
-      "UER": 0,
       "BB": 1,
-      "GameScore": 54
-    },
-    {
-      "Pitcher": "Cam Booser",
-      "Team": "Tampa Bay Rays",
-      "Innings": "1.1",
-      "SO": 0,
-      "H": 0,
-      "ER": 0,
-      "UER": 0,
-      "BB": 1,
-      "GameScore": 53
-    },
-    {
-      "Pitcher": "JoJo Romero",
-      "Team": "Milwaukee Brewers",
-      "Innings": "1.0",
-      "SO": 1,
-      "H": 1,
-      "ER": 0,
-      "UER": 0,
-      "BB": 0,
-      "GameScore": 52
-    },
-    {
-      "Pitcher": "DL Hall",
-      "Team": "Milwaukee Brewers",
-      "Innings": "1.0",
-      "SO": 1,
-      "H": 1,
-      "ER": 0,
-      "UER": 0,
-      "BB": 0,
-      "GameScore": 52
-    },
-    {
-      "Pitcher": "Steven Matz",
-      "Team": "Tampa Bay Rays",
-      "Innings": "0.1",
-      "SO": 0,
-      "H": 0,
-      "ER": 0,
-      "UER": 0,
-      "BB": 0,
-      "GameScore": 51
-    },
-    {
-      "Pitcher": "Dustin May",
-      "Team": "Milwaukee Brewers",
-      "Innings": "1.0",
-      "SO": 0,
-      "H": 1,
-      "ER": 0,
-      "UER": 0,
-      "BB": 0,
-      "GameScore": 51
-    },
-    {
-      "Pitcher": "Jake Bauers",
-      "Team": "Milwaukee Brewers",
-      "Innings": "0.0",
-      "SO": 0,
-      "H": 0,
-      "ER": 0,
-      "UER": 0,
-      "BB": 0,
-      "GameScore": 50
-    },
-    {
-      "Pitcher": "Kyle Harrison",
-      "Team": "Milwaukee Brewers",
-      "Innings": "0.0",
-      "SO": 0,
-      "H": 0,
-      "ER": 0,
-      "UER": 0,
-      "BB": 0,
-      "GameScore": 50
-    },
-    {
-      "Pitcher": "Jackson Chourio",
-      "Team": "Milwaukee Brewers",
-      "Innings": "0.0",
-      "SO": 0,
-      "H": 0,
-      "ER": 0,
-      "UER": 0,
-      "BB": 0,
-      "GameScore": 50
-    },
-    {
-      "Pitcher": "Joey Ortiz",
-      "Team": "Milwaukee Brewers",
-      "Innings": "0.0",
-      "SO": 0,
-      "H": 0,
-      "ER": 0,
-      "UER": 0,
-      "BB": 0,
-      "GameScore": 50
-    },
-    {
-      "Pitcher": "Christian Yelich",
-      "Team": "Milwaukee Brewers",
-      "Innings": "0.0",
-      "SO": 0,
-      "H": 0,
-      "ER": 0,
-      "UER": 0,
-      "BB": 0,
-      "GameScore": 50
-    },
-    {
-      "Pitcher": "Brice Turang",
-      "Team": "Milwaukee Brewers",
-      "Innings": "0.0",
-      "SO": 0,
-      "H": 0,
-      "ER": 0,
-      "UER": 0,
-      "BB": 0,
-      "GameScore": 50
-    },
-    {
-      "Pitcher": "Garrett Mitchell",
-      "Team": "Milwaukee Brewers",
-      "Innings": "0.0",
-      "SO": 0,
-      "H": 0,
-      "ER": 0,
-      "UER": 0,
-      "BB": 0,
-      "GameScore": 50
-    },
-    {
-      "Pitcher": "David Hamilton",
-      "Team": "Milwaukee Brewers",
-      "Innings": "0.0",
-      "SO": 0,
-      "H": 0,
-      "ER": 0,
-      "UER": 0,
-      "BB": 0,
-      "GameScore": 50
-    },
-    {
-      "Pitcher": "William Contreras",
-      "Team": "Milwaukee Brewers",
-      "Innings": "0.0",
-      "SO": 0,
-      "H": 0,
-      "ER": 0,
-      "UER": 0,
-      "BB": 0,
-      "GameScore": 50
-    },
-    {
-      "Pitcher": "Sal Frelick",
-      "Team": "Milwaukee Brewers",
-      "Innings": "0.0",
-      "SO": 0,
-      "H": 0,
-      "ER": 0,
-      "UER": 0,
-      "BB": 0,
-      "GameScore": 50
-    },
-    {
-      "Pitcher": "Andrew Vaughn",
-      "Team": "Milwaukee Brewers",
-      "Innings": "0.0",
-      "SO": 0,
-      "H": 0,
-      "ER": 0,
-      "UER": 0,
-      "BB": 0,
-      "GameScore": 50
-    },
-    {
-      "Pitcher": "Shane Drohan",
-      "Team": "Milwaukee Brewers",
-      "Innings": "0.0",
-      "SO": 0,
-      "H": 0,
-      "ER": 0,
-      "UER": 0,
-      "BB": 0,
-      "GameScore": 50
-    },
-    {
-      "Pitcher": "Cooper Pratt",
-      "Team": "Milwaukee Brewers",
-      "Innings": "0.0",
-      "SO": 0,
-      "H": 0,
-      "ER": 0,
-      "UER": 0,
-      "BB": 0,
-      "GameScore": 50
-    },
-    {
-      "Pitcher": "Bryan Baker",
-      "Team": "Tampa Bay Rays",
-      "Innings": "0.0",
-      "SO": 0,
-      "H": 0,
-      "ER": 0,
-      "UER": 0,
-      "BB": 0,
-      "GameScore": 50
-    },
-    {
-      "Pitcher": "Gary S\u00e1nchez",
-      "Team": "Milwaukee Brewers",
-      "Innings": "0.0",
-      "SO": 0,
-      "H": 0,
-      "ER": 0,
-      "UER": 0,
-      "BB": 0,
-      "GameScore": 50
-    },
-    {
-      "Pitcher": "Robert Gasser",
-      "Team": "Milwaukee Brewers",
-      "Innings": "0.0",
-      "SO": 0,
-      "H": 0,
-      "ER": 0,
-      "UER": 0,
-      "BB": 0,
-      "GameScore": 50
-    },
-    {
-      "Pitcher": "Brandon Woodruff",
-      "Team": "Milwaukee Brewers",
-      "Innings": "0.0",
-      "SO": 0,
-      "H": 0,
-      "ER": 0,
-      "UER": 0,
-      "BB": 0,
-      "GameScore": 50
-    },
-    {
-      "Pitcher": "Luis Lara",
-      "Team": "Milwaukee Brewers",
-      "Innings": "0.0",
-      "SO": 0,
-      "H": 0,
-      "ER": 0,
-      "UER": 0,
-      "BB": 0,
-      "GameScore": 50
-    },
-    {
-      "Pitcher": "Trevor Megill",
-      "Team": "Milwaukee Brewers",
-      "Innings": "0.0",
-      "SO": 0,
-      "H": 0,
-      "ER": 0,
-      "UER": 0,
-      "BB": 0,
-      "GameScore": 50
-    },
-    {
-      "Pitcher": "Jacob Misiorowski",
-      "Team": "Milwaukee Brewers",
-      "Innings": "0.0",
-      "SO": 0,
-      "H": 0,
-      "ER": 0,
-      "UER": 0,
-      "BB": 0,
-      "GameScore": 50
+      "GameScore": 72
     },
     {
       "Pitcher": "Antonio Senzatela",
       "Team": "Milwaukee Brewers",
-      "Innings": "0.0",
-      "SO": 0,
+      "Innings": "2.0",
+      "SO": 1,
       "H": 0,
       "ER": 0,
       "UER": 0,
       "BB": 0,
-      "GameScore": 50
+      "GameScore": 57
     },
     {
-      "Pitcher": "Ryan Vilade",
+      "Pitcher": "Tyler Wells",
       "Team": "Tampa Bay Rays",
-      "Innings": "0.0",
-      "SO": 0,
+      "Innings": "1.0",
+      "SO": 1,
       "H": 0,
       "ER": 0,
       "UER": 0,
       "BB": 0,
-      "GameScore": 50
+      "GameScore": 54
     },
     {
-      "Pitcher": "Taylor Walls",
+      "Pitcher": "Garrett Cleavinger",
       "Team": "Tampa Bay Rays",
-      "Innings": "0.0",
-      "SO": 0,
+      "Innings": "1.0",
+      "SO": 1,
       "H": 0,
       "ER": 0,
       "UER": 0,
       "BB": 0,
-      "GameScore": 50
+      "GameScore": 54
+    },
+    {
+      "Pitcher": "Steven Matz",
+      "Team": "Tampa Bay Rays",
+      "Innings": "1.0",
+      "SO": 0,
+      "H": 1,
+      "ER": 0,
+      "UER": 0,
+      "BB": 0,
+      "GameScore": 51
     },
     {
       "Pitcher": "Jorge Mateo",
@@ -354,18 +79,7 @@
       "GameScore": 50
     },
     {
-      "Pitcher": "Nick Martinez",
-      "Team": "Tampa Bay Rays",
-      "Innings": "0.0",
-      "SO": 0,
-      "H": 0,
-      "ER": 0,
-      "UER": 0,
-      "BB": 0,
-      "GameScore": 50
-    },
-    {
-      "Pitcher": "Chandler Simpson",
+      "Pitcher": "Ryan Vilade",
       "Team": "Tampa Bay Rays",
       "Innings": "0.0",
       "SO": 0,
@@ -387,7 +101,7 @@
       "GameScore": 50
     },
     {
-      "Pitcher": "Cole Sulser",
+      "Pitcher": "Ian Seymour",
       "Team": "Tampa Bay Rays",
       "Innings": "0.0",
       "SO": 0,
@@ -398,7 +112,7 @@
       "GameScore": 50
     },
     {
-      "Pitcher": "Cedric Mullins",
+      "Pitcher": "Chandler Simpson",
       "Team": "Tampa Bay Rays",
       "Innings": "0.0",
       "SO": 0,
@@ -409,7 +123,7 @@
       "GameScore": 50
     },
     {
-      "Pitcher": "Garrett Cleavinger",
+      "Pitcher": "Nick Martinez",
       "Team": "Tampa Bay Rays",
       "Innings": "0.0",
       "SO": 0,
@@ -420,7 +134,18 @@
       "GameScore": 50
     },
     {
-      "Pitcher": "Freddy Peralta",
+      "Pitcher": "Griffin Jax",
+      "Team": "Tampa Bay Rays",
+      "Innings": "0.0",
+      "SO": 0,
+      "H": 0,
+      "ER": 0,
+      "UER": 0,
+      "BB": 0,
+      "GameScore": 50
+    },
+    {
+      "Pitcher": "Nick Fortes",
       "Team": "Tampa Bay Rays",
       "Innings": "0.0",
       "SO": 0,
@@ -453,29 +178,7 @@
       "GameScore": 50
     },
     {
-      "Pitcher": "Nick Fortes",
-      "Team": "Tampa Bay Rays",
-      "Innings": "0.0",
-      "SO": 0,
-      "H": 0,
-      "ER": 0,
-      "UER": 0,
-      "BB": 0,
-      "GameScore": 50
-    },
-    {
       "Pitcher": "Yandy D\u00edaz",
-      "Team": "Tampa Bay Rays",
-      "Innings": "0.0",
-      "SO": 0,
-      "H": 0,
-      "ER": 0,
-      "UER": 0,
-      "BB": 0,
-      "GameScore": 50
-    },
-    {
-      "Pitcher": "Griffin Jax",
       "Team": "Tampa Bay Rays",
       "Innings": "0.0",
       "SO": 0,
@@ -497,8 +200,52 @@
       "GameScore": 50
     },
     {
-      "Pitcher": "Junior Caminero",
+      "Pitcher": "Kevin Kelly",
       "Team": "Tampa Bay Rays",
+      "Innings": "0.0",
+      "SO": 0,
+      "H": 0,
+      "ER": 0,
+      "UER": 0,
+      "BB": 0,
+      "GameScore": 50
+    },
+    {
+      "Pitcher": "Taylor Walls",
+      "Team": "Tampa Bay Rays",
+      "Innings": "0.0",
+      "SO": 0,
+      "H": 0,
+      "ER": 0,
+      "UER": 0,
+      "BB": 0,
+      "GameScore": 50
+    },
+    {
+      "Pitcher": "Andrew Vaughn",
+      "Team": "Milwaukee Brewers",
+      "Innings": "0.0",
+      "SO": 0,
+      "H": 0,
+      "ER": 0,
+      "UER": 0,
+      "BB": 0,
+      "GameScore": 50
+    },
+    {
+      "Pitcher": "JoJo Romero",
+      "Team": "Milwaukee Brewers",
+      "Innings": "0.0",
+      "SO": 0,
+      "H": 0,
+      "ER": 0,
+      "UER": 0,
+      "BB": 0,
+      "GameScore": 50
+    },
+    {
+      "Pitcher": "Garrett Mitchell",
+      "Team": "Milwaukee Brewers",
       "Innings": "0.0",
       "SO": 0,
       "H": 0,
@@ -519,59 +266,312 @@
       "GameScore": 50
     },
     {
-      "Pitcher": "Kevin Kelly",
+      "Pitcher": "Drew Rasmussen",
       "Team": "Tampa Bay Rays",
-      "Innings": "1.1",
+      "Innings": "0.0",
       "SO": 0,
-      "H": 2,
+      "H": 0,
       "ER": 0,
       "UER": 0,
-      "BB": 1,
-      "GameScore": 49
+      "BB": 0,
+      "GameScore": 50
     },
     {
-      "Pitcher": "Tyler Wells",
+      "Pitcher": "Cedric Mullins",
       "Team": "Tampa Bay Rays",
-      "Innings": "0.2",
+      "Innings": "0.0",
       "SO": 0,
-      "H": 1,
+      "H": 0,
+      "ER": 0,
+      "UER": 0,
+      "BB": 0,
+      "GameScore": 50
+    },
+    {
+      "Pitcher": "Bryan Baker",
+      "Team": "Tampa Bay Rays",
+      "Innings": "0.0",
+      "SO": 0,
+      "H": 0,
+      "ER": 0,
+      "UER": 0,
+      "BB": 0,
+      "GameScore": 50
+    },
+    {
+      "Pitcher": "Junior Caminero",
+      "Team": "Tampa Bay Rays",
+      "Innings": "0.0",
+      "SO": 0,
+      "H": 0,
+      "ER": 0,
+      "UER": 0,
+      "BB": 0,
+      "GameScore": 50
+    },
+    {
+      "Pitcher": "Logan Henderson",
+      "Team": "Milwaukee Brewers",
+      "Innings": "0.0",
+      "SO": 0,
+      "H": 0,
+      "ER": 0,
+      "UER": 0,
+      "BB": 0,
+      "GameScore": 50
+    },
+    {
+      "Pitcher": "Jackson Chourio",
+      "Team": "Milwaukee Brewers",
+      "Innings": "0.0",
+      "SO": 0,
+      "H": 0,
+      "ER": 0,
+      "UER": 0,
+      "BB": 0,
+      "GameScore": 50
+    },
+    {
+      "Pitcher": "Christian Yelich",
+      "Team": "Milwaukee Brewers",
+      "Innings": "0.0",
+      "SO": 0,
+      "H": 0,
+      "ER": 0,
+      "UER": 0,
+      "BB": 0,
+      "GameScore": 50
+    },
+    {
+      "Pitcher": "Jake Bauers",
+      "Team": "Milwaukee Brewers",
+      "Innings": "0.0",
+      "SO": 0,
+      "H": 0,
+      "ER": 0,
+      "UER": 0,
+      "BB": 0,
+      "GameScore": 50
+    },
+    {
+      "Pitcher": "Sal Frelick",
+      "Team": "Milwaukee Brewers",
+      "Innings": "0.0",
+      "SO": 0,
+      "H": 0,
+      "ER": 0,
+      "UER": 0,
+      "BB": 0,
+      "GameScore": 50
+    },
+    {
+      "Pitcher": "Abner Uribe",
+      "Team": "Milwaukee Brewers",
+      "Innings": "0.0",
+      "SO": 0,
+      "H": 0,
+      "ER": 0,
+      "UER": 0,
+      "BB": 0,
+      "GameScore": 50
+    },
+    {
+      "Pitcher": "Cooper Pratt",
+      "Team": "Milwaukee Brewers",
+      "Innings": "0.0",
+      "SO": 0,
+      "H": 0,
+      "ER": 0,
+      "UER": 0,
+      "BB": 0,
+      "GameScore": 50
+    },
+    {
+      "Pitcher": "Joey Ortiz",
+      "Team": "Milwaukee Brewers",
+      "Innings": "0.0",
+      "SO": 0,
+      "H": 0,
+      "ER": 0,
+      "UER": 0,
+      "BB": 0,
+      "GameScore": 50
+    },
+    {
+      "Pitcher": "Brice Turang",
+      "Team": "Milwaukee Brewers",
+      "Innings": "0.0",
+      "SO": 0,
+      "H": 0,
+      "ER": 0,
+      "UER": 0,
+      "BB": 0,
+      "GameScore": 50
+    },
+    {
+      "Pitcher": "Gary S\u00e1nchez",
+      "Team": "Milwaukee Brewers",
+      "Innings": "0.0",
+      "SO": 0,
+      "H": 0,
+      "ER": 0,
+      "UER": 0,
+      "BB": 0,
+      "GameScore": 50
+    },
+    {
+      "Pitcher": "DL Hall",
+      "Team": "Milwaukee Brewers",
+      "Innings": "0.0",
+      "SO": 0,
+      "H": 0,
+      "ER": 0,
+      "UER": 0,
+      "BB": 0,
+      "GameScore": 50
+    },
+    {
+      "Pitcher": "Shane Drohan",
+      "Team": "Milwaukee Brewers",
+      "Innings": "0.0",
+      "SO": 0,
+      "H": 0,
+      "ER": 0,
+      "UER": 0,
+      "BB": 0,
+      "GameScore": 50
+    },
+    {
+      "Pitcher": "Aaron Ashby",
+      "Team": "Milwaukee Brewers",
+      "Innings": "0.0",
+      "SO": 0,
+      "H": 0,
+      "ER": 0,
+      "UER": 0,
+      "BB": 0,
+      "GameScore": 50
+    },
+    {
+      "Pitcher": "David Hamilton",
+      "Team": "Milwaukee Brewers",
+      "Innings": "0.0",
+      "SO": 0,
+      "H": 0,
+      "ER": 0,
+      "UER": 0,
+      "BB": 0,
+      "GameScore": 50
+    },
+    {
+      "Pitcher": "William Contreras",
+      "Team": "Milwaukee Brewers",
+      "Innings": "0.0",
+      "SO": 0,
+      "H": 0,
+      "ER": 0,
+      "UER": 0,
+      "BB": 0,
+      "GameScore": 50
+    },
+    {
+      "Pitcher": "Kyle Harrison",
+      "Team": "Milwaukee Brewers",
+      "Innings": "0.0",
+      "SO": 0,
+      "H": 0,
+      "ER": 0,
+      "UER": 0,
+      "BB": 0,
+      "GameScore": 50
+    },
+    {
+      "Pitcher": "Luis Lara",
+      "Team": "Milwaukee Brewers",
+      "Innings": "0.0",
+      "SO": 0,
+      "H": 0,
+      "ER": 0,
+      "UER": 0,
+      "BB": 0,
+      "GameScore": 50
+    },
+    {
+      "Pitcher": "Dustin May",
+      "Team": "Milwaukee Brewers",
+      "Innings": "0.0",
+      "SO": 0,
+      "H": 0,
+      "ER": 0,
+      "UER": 0,
+      "BB": 0,
+      "GameScore": 50
+    },
+    {
+      "Pitcher": "Trevor Megill",
+      "Team": "Milwaukee Brewers",
+      "Innings": "0.0",
+      "SO": 0,
+      "H": 0,
+      "ER": 0,
+      "UER": 0,
+      "BB": 0,
+      "GameScore": 50
+    },
+    {
+      "Pitcher": "Jacob Misiorowski",
+      "Team": "Milwaukee Brewers",
+      "Innings": "0.0",
+      "SO": 0,
+      "H": 0,
+      "ER": 0,
+      "UER": 0,
+      "BB": 0,
+      "GameScore": 50
+    },
+    {
+      "Pitcher": "Brandon Woodruff",
+      "Team": "Milwaukee Brewers",
+      "Innings": "1.0",
+      "SO": 1,
+      "H": 2,
       "ER": 1,
       "UER": 0,
       "BB": 0,
       "GameScore": 46
     },
     {
-      "Pitcher": "Ian Seymour",
+      "Pitcher": "Cole Sulser",
       "Team": "Tampa Bay Rays",
-      "Innings": "0.2",
-      "SO": 2,
-      "H": 2,
+      "Innings": "1.1",
+      "SO": 1,
+      "H": 4,
       "ER": 1,
       "UER": 0,
-      "BB": 1,
-      "GameScore": 45
+      "BB": 0,
+      "GameScore": 43
     },
     {
-      "Pitcher": "Logan Henderson",
-      "Team": "Milwaukee Brewers",
-      "Innings": "3.0",
-      "SO": 4,
-      "H": 3,
-      "ER": 3,
-      "UER": 0,
-      "BB": 1,
-      "GameScore": 44
-    },
-    {
-      "Pitcher": "Drew Rasmussen",
+      "Pitcher": "Freddy Peralta",
       "Team": "Tampa Bay Rays",
-      "Innings": "3.2",
+      "Innings": "4.2",
       "SO": 4,
-      "H": 6,
-      "ER": 3,
+      "H": 7,
+      "ER": 5,
       "UER": 0,
-      "BB": 2,
-      "GameScore": 39
+      "BB": 3,
+      "GameScore": 31
+    },
+    {
+      "Pitcher": "Cam Booser",
+      "Team": "Tampa Bay Rays",
+      "Innings": "0.0",
+      "SO": 0,
+      "H": 4,
+      "ER": 4,
+      "UER": 0,
+      "BB": 0,
+      "GameScore": 26
     }
   ]
 }
